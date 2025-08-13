@@ -1,0 +1,1 @@
+x86_64-w64-mingw32-g++ CMakeFiles/cube.dir/src/cube.cpp.o -o cube  /home/meat_consumer/games/camera/lib/libraylib.a /home/meat_consumer/games/camera/lib/libglad.a -lopengl32 -lgdi32 -lwinmm -luser32 -lshell32 

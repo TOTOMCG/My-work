@@ -1,0 +1,3 @@
+/home/meat_consumer/games/3d/build/CMakeFiles/cube.dir
+/home/meat_consumer/games/3d/build/CMakeFiles/edit_cache.dir
+/home/meat_consumer/games/3d/build/CMakeFiles/rebuild_cache.dir

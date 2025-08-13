@@ -1,0 +1,3 @@
+/usr/bin/cmake -E rm -f CMakeFiles/triangles.dir/objects.a
+/usr/bin/x86_64-w64-mingw32-ar qc CMakeFiles/triangles.dir/objects.a @CMakeFiles/triangles.dir/objects1.rsp
+x86_64-w64-mingw32-g++ -Wl,--whole-archive CMakeFiles/triangles.dir/objects.a -Wl,--no-whole-archive -o triangles.exe -Wl,--out-implib,libtriangles.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/triangles.dir/linkLibs.rsp

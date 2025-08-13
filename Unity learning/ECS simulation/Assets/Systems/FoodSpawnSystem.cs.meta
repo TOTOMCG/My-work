@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3acedbdaa6c952e4d84d4285e991b19c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - foodPrefab: {fileID: 2821505480089937819, guid: ea37e0edc64442a41b3f7339eae2cd15, type: 3}
+  - preyPrefab: {fileID: 5570643250398232194, guid: e620d1bbd26bf2d4790b7ef9494c929c, type: 3}
+  - spawnArea: {fileID: 2170982458021838300, guid: 5adc6c6e816be1044b863abfbb47e6e8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
